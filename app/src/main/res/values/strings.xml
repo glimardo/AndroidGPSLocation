@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidGPSLocation</string>
+    <string name="lbl_you_are_at">SEI QUI:</string>
+    <string name="btn_get_location">LOCALIZZAMI</string>
+    <string name="btn_start_location_updates">INIZIA A LOCALIZZARMI</string>
+    <string name="btn_stop_location_updates">FINISCI LA LOCALIZZAZIONE</string>
+    <string name="etLatitude">Latitudine: </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
